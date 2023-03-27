@@ -1,3 +1,3 @@
 # pagina-captura-ProgBr
 
-Projeto de uma página de captura - curso Desenvolvedor Full stack - Programador BR
+Projeto de uma página de captura - curso Desenvolvimento Web Full stack - Programador BR
